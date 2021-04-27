@@ -49,7 +49,7 @@ iframe {
   display: flex;
   margin: auto;
   top: -80px;
-
+  border-radius: 10px;
 }
 
 .second-section {

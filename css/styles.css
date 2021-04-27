@@ -60,7 +60,9 @@ iframe {
 h2 {
   text-align: center;
   font-family: 'Roboto Slab';
-  padding: 25px;
+  color: #0085ac;
+  font-size: 55px;
+  font-weight: 700;
 }
 
 footer {

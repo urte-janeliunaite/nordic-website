@@ -63,6 +63,8 @@ iframe {
   background-color: #ffffff;
   color: #a2aebb;
   text-align: justify;
+  font-family: 'Roboto Slab';
+  font-weight: 400;
 }
 
 h2 {

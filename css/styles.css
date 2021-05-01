@@ -15,10 +15,14 @@ section {
   font-weight: bold;
   background-color: #0085ac;
   height: 100px;
+  padding-right: 50px;
+  padding-left: 40px;
 }
 
 .nav-item {
   border-color: #0085ac;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .first-section {

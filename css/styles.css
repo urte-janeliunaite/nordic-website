@@ -17,12 +17,22 @@ section {
   height: 100px;
   padding-right: 60px;
   padding-left: 50px;
+  margin-right: 0 !important;
 }
 
-.nav-item {
-  border-color: #0085ac;
-  padding-left: 10px;
-  padding-right: 10px;
+ul.navbar-nav a.nav-link {
+  padding-top: 2.33rem;
+  padding-bottom: 2.33rem;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+ul.navbar-nav:first-child li.nav-item {
+  border-right: 1px solid rgba(0,0,0,0.1); // red green blue alpha
+}
+
+ul.navbar-buttons li.nav-item {
+  border-left: 1px solid rgba(0,0,0,0.1); // red green blue alpha
 }
 
 a:hover {

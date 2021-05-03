@@ -113,7 +113,8 @@ h2 {
   font-family: 'Roboto Slab';
   color: #0085ac;
   font-size: 55px;
-  font-weight: bold !important;
+  font-weight: 900 !important;
+  padding-bottom: 5rem;
 }
 
 footer {

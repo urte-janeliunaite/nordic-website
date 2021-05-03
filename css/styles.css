@@ -84,10 +84,8 @@ h3 {
 }
 
 iframe {
-  position: relative;
   display: flex;
-  margin: auto;
-  top: -150px;
+  margin-top: -150px;
   border-radius: 15px;
 }
 
@@ -100,7 +98,7 @@ iframe {
 
 .second-section .row p {
   padding-right: 3.5rem;
-  padding-left: 3rem;
+  padding-left: 3.5rem;
 }
 
 .second-section .row i {

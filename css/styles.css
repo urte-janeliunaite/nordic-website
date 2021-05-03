@@ -47,6 +47,7 @@ a:hover {
   background-color: #40bce0;
   display: block;
   color: #ffffff;
+  padding-bottom: 10rem;
 }
 
 header {
@@ -75,12 +76,19 @@ h3 {
   text-align: center;
 }
 
+.small-text p {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  font-family: 'Roboto Slab';
+  font-size: 15px;
+}
+
 iframe {
   position: relative;
   display: flex;
   margin: auto;
-  top: -80px;
-  border-radius: 10px;
+  top: -150px;
+  border-radius: 15px;
 }
 
 .second-section {

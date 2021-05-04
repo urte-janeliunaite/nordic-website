@@ -62,6 +62,12 @@ h1 {
   font-weight: bold !important;
 }
 
+.first-section h1 span {
+  background-color: #ffffff;
+  color: #00a6d6;
+  padding: 0.5rem 1rem;
+}
+
 h3 {
   font-family: 'Reenie Beanie';
   bottom: 100px;

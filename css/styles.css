@@ -151,6 +151,16 @@ iframe {
   position: relative;
 }
 
+.image-wrapper {
+  height: 130px;
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
 h2 {
   text-align: center;
   font-family: 'Roboto Slab';
@@ -158,6 +168,12 @@ h2 {
   font-weight: 900 !important;
   font-size: 45px !important;
   padding-bottom: 3rem;
+}
+
+img {
+   width: auto;
+   padding-right: 3.5rem;
+   padding-left: 3.5rem;
 }
 
 footer {

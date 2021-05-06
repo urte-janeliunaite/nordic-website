@@ -1,4 +1,4 @@
-This is a single page website made using CSS and HTML, also Bootstrap grid.
+This is a single page website made with CSS and HTML, also Bootstrap grid.
 
 ## Design Author: Victor Lava
 ## License: MIT

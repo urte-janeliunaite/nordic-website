@@ -206,14 +206,29 @@ footer {
   background-color: #071013;
   color: #a2aebb;
   height: 100px;
+  font-family: 'Roboto Slab';
 }
 
 footer a {
   color: #a2aebb;
 }
 
-footer .col-auto {
-  padding: 5px;
+footer a:hover {
+  color: #40bce0;
+}
+
+.social-icons p,
+.social-icons ul,
+.social-icons li {
+  display: inline;
+}
+
+.social-icons {
+  text-align: right;
+}
+
+.social-icons ul {
+  padding-left: 1rem;
 }
 
 footer p {

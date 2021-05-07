@@ -211,3 +211,11 @@ footer {
 footer a {
   color: #a2aebb;
 }
+
+footer .col-auto {
+  padding: 5px;
+}
+
+footer p {
+  margin-bottom: 0;
+}

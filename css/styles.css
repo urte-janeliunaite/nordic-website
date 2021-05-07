@@ -191,6 +191,10 @@ h2 {
   padding-top: 3rem;
 }
 
+.second-section .row {
+  padding-bottom: 6rem;
+}
+
 img {
    width: auto;
    padding-right: 3.5rem;

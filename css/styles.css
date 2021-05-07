@@ -39,6 +39,15 @@ a:hover {
   background-color: #071013;
 }
 
+.dropdown-menu {
+  border-radius: 0px !important;
+  margin-top: 0px !important;
+}
+
+.dropdown-divider {
+  margin: 0 0 !important;
+}
+
 .navbar-buttons {
   margin-left: auto;
 }

@@ -1,5 +1,5 @@
 section {
-  padding: 45px;
+  padding-top: 100px;
 }
 
 .navbar {
@@ -8,13 +8,13 @@ section {
 }
 
 .navbar-brand {
-  font-weight: bold;
   background-color: #0085ac;
   height: 100px;
   padding-right: 60px;
   padding-left: 50px;
   margin-right: 0 !important;
   letter-spacing: 0.5px;
+  font-size: 21px;
 }
 
 ul.navbar-nav a.nav-link {
@@ -44,8 +44,14 @@ a:hover {
   margin-top: 0px !important;
 }
 
-.dropdown-divider {
-  margin: 0 0 !important;
+ul .dropdown-menu a.dropdown-item {
+  padding: 15px 15px;
+  font-size: 13px;
+}
+
+ul .dropdown-menu a.dropdown-item:last-child {
+  border-bottom: 0px;
+  border-top: 1px solid rgba(0,0,0,0.1);
 }
 
 .navbar-buttons {
